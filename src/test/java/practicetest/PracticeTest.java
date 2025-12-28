@@ -1,5 +1,5 @@
 package practicetest;
-//Creating WF with this code commit push and creating WF
+//Creating WF with this code commit push and creating WF new
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
